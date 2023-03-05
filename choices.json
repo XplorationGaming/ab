@@ -1,5 +1,5 @@
 {
-	"0" : {"Name" : "Health", "Icon" : "favorite"},
-	"1" : {"Name" : "Trade Goods", "Icon" : "attach_money"}
+	0 : {"name" : "Start", "text" : "Your first choice to make"},
+	1 : {"name" : "Two", "text" : "Your second choice"}
 }
 
