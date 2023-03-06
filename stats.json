@@ -1,6 +1,4 @@
 {
-	"stats": 	[
-		{"Name" : "Health", "Icon" : "favorite"},
-		{"Name" : "Trade Goods", "Icon" : "attach_money"}
-	]
+	0 : { "name" : "Health", "icon" : "favorite"},
+	1 : { "name" : "Trade Goods", "icon" : "attach_money"}
 }
