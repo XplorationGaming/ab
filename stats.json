@@ -1,4 +1,4 @@
 {
-	0 : { "name" : "Health", "icon" : "favorite"},
-	1 : { "name" : "Trade Goods", "icon" : "attach_money"}
+	"favorite" : "Health",
+	"attach_money" : "Trade Goods"}
 }
