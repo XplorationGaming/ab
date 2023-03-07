@@ -1,3 +1,4 @@
 {
-  "0" : {"text" : "This is the just the beginning"}
+	"0" : {"name": "Fresh Start", "text": "This is where it all began...", "img" : "shotgun"}
 }
+
