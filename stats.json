@@ -1,1 +1,8 @@
-{"favorite" : "Health","attach_money" : "Trade Goods"}
+{
+	"location" : "0",
+	"day" : "1",
+	"hp" : "100",
+	"ap" : "3",
+	"dr" : "0"
+}
+	
