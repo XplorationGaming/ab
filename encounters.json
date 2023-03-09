@@ -1,4 +1,4 @@
 {
-	"0" : {"name": "Fresh Start", "text": "This is where it all began...", "image" : "shotgun"}
+	"0" : {"name": "Fresh Start", "text": "This is where it all began...", "choices" : [{"id" : "0"}] }
 
 }
