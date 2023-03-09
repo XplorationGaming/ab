@@ -1,8 +1,8 @@
 {
-	"location" : "0",
-	"day" : "1",
-	"hp" : "100",
-	"ap" : "3",
-	"dr" : "0"
+	"location" : {"name" : "Location", "icon" : "favorite", "starting" : "0"},
+	"day" : {"name" : "Day", "icon" : "favorite", "starting" : "1"},
+	"hp" : {"name" : "Health", "icon" : "favorite", "starting" : "100"},
+	"ap" : {"name" : "Activity Points", "icon" : "favorite", "starting" : "3"},
+	"dr" : {"name" : "Damage Reduction" , "icon" : "favorite", "starting" : "0"}
 }
 	
