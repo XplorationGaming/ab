@@ -1,8 +1,7 @@
 {
-	"location" : {"name" : "Location", "icon" : "favorite", "starting" : "0"},
-	"day" : {"name" : "Day", "icon" : "favorite", "starting" : "1"},
-	"hp" : {"name" : "Health", "icon" : "favorite", "starting" : "100"},
-	"ap" : {"name" : "Activity Points", "icon" : "favorite", "starting" : "3"},
-	"dr" : {"name" : "Damage Reduction" , "icon" : "favorite", "starting" : "0"}
+	"location" : {"name" : "Location", "icon" : "map", "starting" : "0", "display" : "leftnav"},
+	"day" : {"name" : "Day", "icon" : "calendar_month", "starting" : "1", "display" : "leftnav"},
+	"hp" : {"name" : "Health", "icon" : "favorite", "starting" : "100", "display" : "leftnav"},
+	"ap" : {"name" : "Activity Points", "icon" : "sprint", "starting" : "3", "display" : "leftnav"},
+	"dr" : {"name" : "Damage Reduction" , "icon" : "shield_with_heart", "starting" : "0", "display" : "leftnav"}
 }
-	
