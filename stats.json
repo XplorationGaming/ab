@@ -2,6 +2,6 @@
 	"location" : {"name" : "Location", "icon" : "map", "value" : "0", "display" : "leftnav"},
 	"day" : {"name" : "Day", "icon" : "calendar_month", "value" : "1", "display" : "leftnav"},
 	"hp" : {"name" : "Health", "icon" : "favorite", "value" : "100", "display" : "leftnav"},
-	"ap" : {"name" : "Activity Points", "icon" : "sprint", "value" : "3", "display" : "leftnav"},
-	"dr" : {"name" : "Damage Reduction" , "icon" : "shield_with_heart", "value" : "0", "display" : "leftnav"}
+	"ap" : {"name" : "Activity Points", "icon" : "directions_run", "value" : "3", "display" : "leftnav"},
+	"dr" : {"name" : "Damage Reduction" , "icon" : "health_and_safety", "value" : "0", "display" : "leftnav"}
 }
