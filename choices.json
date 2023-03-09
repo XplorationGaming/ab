@@ -1,4 +1,4 @@
 {
-	"0" : {"name": "Fresh Start", "text": "This is where it all began...", "img" : "shotgun"}
+	"0" : {"text" : "You know what to do", "image" : "shotgun", "location" : "0", "reqs" : [{"hp" : "1"}], "stats" : [], "items" : [{"shotgun" : "1"}]}
 }
 
