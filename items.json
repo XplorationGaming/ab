@@ -1,6 +1,3 @@
 {
-	"items": 	[
-		{"Name" : "Health", "Icon" : "favorite"},
-		{"Name" : "Trade Goods", "Icon" : "attach_money"}
-	]
+	"shotgun" : {"name" : "Shotgun", "description" : "Damage: 10d10", "damage" : ["10","10"] }
 }
