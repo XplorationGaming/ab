@@ -1,4 +1,4 @@
 {
-	"0" : {"text" : "You know what to do", "image" : "shotgun", "location" : "0", "reqs" : [["hp","1"]], "stats" : [], "items" : [["shotgun","1"],["shells","12"]]}
+	"0" : {"text" : "You know what to do", "image" : "shotgun", "location" : "0", "reqs" : [["hp","1"]], "stats" : [["ap","1"]], "items" : [["shotgun","1"],["shells","12"]]}
 }
 
