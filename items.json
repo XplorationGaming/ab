@@ -1,3 +1,4 @@
 {
-	"shotgun" : {"name" : "Shotgun", "description" : "Damage: 10d10", "damage" : ["10","10"] }
+	"shotgun" : {"name" : "Shotgun", "description" : "Damage: 10d10", "damage" : ["10","10"] },
+	"shells" : {"name" : "Shotgun Shells", "description" : "Ammo for your boomstick"}
 }
