@@ -2,7 +2,7 @@
 	"10000" : 
 	{
 	"0" : {"text" : "You grab the shotgun and as many shells as you can fill your pockets with.", "image" : "shotgun", "items" : [["shotgun","1"],["shells","12"]]},
-	"1" : {"text" : "You know what to do", "image" : "backpack1", "items" : [["backpack","1"]},
+	"1" : {"text" : "You know what to do", "image" : "backpack1", "items" : [["backpack","1"]]},
 	"2" : {"text" : "Make your way out of of the building...", "image" : "doorhouse", "location" : "10001"}									  
 	}									     
 
