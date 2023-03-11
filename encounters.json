@@ -1,4 +1,4 @@
 {
-	"10000" : {"name": "Fresh Start", "text": "This is where it all began...", "bg" : "0"}
-
+	"10000" : {"name": "Fresh Start", "text": "This is where it all began...", "bg" : "0"},
+	"10001" : {"name": "Exit the House", "text": "You make your way outside and are held at gunpoint...", "bg" : "1"}
 }
