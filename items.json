@@ -1,5 +1,5 @@
 {
 	"shotgun" : {"name" : "Shotgun", "description" : "Damage: 10d10", "damage" : ["10","10"] },
-	"shells" : {"name" : "Shotgun Shells", "description" : "Ammo for your boomstick"},
+	"shells" : {"name" : "Shotgun Shells", "count" : "1",  "description" : "Ammo for your boomstick", "count" : "0", "stackable" : "1"} ,
 	"backpack1" : {"name" : "Backpack" , "description" : "Allows you to store non-worn, non-wielded items you find", "stats" : [["bag","1"]]}
 }
