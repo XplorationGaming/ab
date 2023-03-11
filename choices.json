@@ -8,7 +8,7 @@
 
 	"10001" : 
 	{	
-	"0" : {"text" : "Head back inside", "image" : "doorhouse", "location" : "10000"}									  
+	"0" : {"text" : "Head back inside", "image" : "doorhouse", "location" : "10000", "repeats" : "Y"}									  
 	}	
 
 }
