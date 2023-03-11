@@ -1,6 +1,6 @@
 {
 	"count" : "0",
-	"location" : {"name" : "Location", "icon" : "map", "value" : "10000", "display" : "leftnav"},
+	"location" : "10000",
 	"day" : {"name" : "Day", "icon" : "calendar_month", "value" : "1", "display" : "leftnav"},
 	"hp" : {"name" : "Health", "icon" : "favorite", "value" : "100", "display" : "leftnav"},
 	"ap" : {"name" : "Activity Points", "icon" : "directions_run", "value" : "3", "display" : "leftnav"},
