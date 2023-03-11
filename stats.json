@@ -1,7 +1,7 @@
 {
 	"count" : "0",
 	"location" : "10000",
-	"inv" : "5",
+	"inv" : {"name" : "Inventory", "icon" : "backpack", "value" : "5", "display" : "leftnav"},
 	"day" : {"name" : "Day", "icon" : "calendar_month", "value" : "1", "display" : "leftnav"},
 	"hp" : {"name" : "Health", "icon" : "favorite", "value" : "100", "display" : "leftnav"},
 	"ap" : {"name" : "Activity Points", "icon" : "directions_run", "value" : "3", "display" : "leftnav"},
