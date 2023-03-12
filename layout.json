@@ -1,8 +1,8 @@
 {
 	"leftnav" : 
 	{
-		"inv" : {"icon" : "backpack", "stat" : "inv", "function" : "ToggleInventory()"},
 		"day" : {"icon" : "calendar_month", "stat" : "day"},
+		"inv" : {"icon" : "backpack", "stat" : "inv", "function" : "ToggleInventory()"},		
 		"hp" : {"icon" : "favorite", "stat" : "hp"},
 		"ap" : {"icon" : "directions_run", "stat" : "ap"},
 		"dr" : {"icon" : "health_and_safety", "stat" : "dr" }
