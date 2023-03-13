@@ -1,10 +1,9 @@
 {
 	"food" : {"name" : "Food", "description" : "Each ration will feed your for a meal...", "count" : "0", "stackable" : "1"},
 	"key" : {"name" : "Key", "description" : "Each key will fit one locked item nearby...", "count" : "0", "stackable" : "1"},
-	"matches" : {"name" : "Matches", "description" : "Each match will start a fire...", "count" : "0", "stackable" : "1"}
+	"matches" : {"name" : "Matches", "description" : "Each match will start a fire...", "count" : "0", "stackable" : "1"},
 	"shells" : {"name" : "Shotgun Shells", "description" : "Each shell will fire from a shotgun...", "count" : "0", "stackable" : "1"},
-	"water" : {"name" : "Water", "description" : "Each drink will sate your thirst for a period...", "count" : "0", "stackable" : "1"},	
-
+	"water" : {"name" : "Water", "description" : "Each drink will sate your thirst for a period...", "count" : "0", "stackable" : "1"},
 	"binoculars" : {"name" : "Binoculars", "description" : "Helps you spot things from vast distances"},
 	"compass" : {"name" : "Compass", "description" : "Helps keep you in the right path"},
 	"gasmask" : {"name" : "Ventilator Mask", "description" : "Helps protect your lungs from harsh breathing conditions"},
