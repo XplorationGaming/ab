@@ -1,5 +1,31 @@
 {
+	"food" : {"name" : "Food", "description" : "Each ration will feed your for a meal...", "count" : "0", "stackable" : "1"},
+	"key" : {"name" : "Key", "description" : "Each key will fit one locked item nearby...", "count" : "0", "stackable" : "1"},
+	"matches" : {"name" : "Matches", "description" : "Each match will start a fire...", "count" : "0", "stackable" : "1"}
+	"shells" : {"name" : "Shotgun Shells", "description" : "Each shell will fire from a shotgun...", "count" : "0", "stackable" : "1"},
+	"water" : {"name" : "Water", "description" : "Each drink will sate your thirst for a period...", "count" : "0", "stackable" : "1"},	
+
+	"binoculars" : {"name" : "Binoculars", "description" : "Helps you spot things from vast distances"},
+	"compass" : {"name" : "Compass", "description" : "Helps keep you in the right path"},
+	"gasmask" : {"name" : "Ventilator Mask", "description" : "Helps protect your lungs from harsh breathing conditions"},
+	"lighter" : {"name" : "Lighter", "description" : "Helps you start a fire"},
+	"medkit" : {"name" : "First Aid Kit", "description" : "Helps you treat wounds and fend off ailments"},
+	"talkies" : {"name" : "Radio Communications", "description" : "Helps you monitor communications"},
+	
+	"armorvest" : ["name" : "Protective Vest", "description" : "Helps protect you from physical threats", "slot" : "chest2"},
+	"backpack1" : {"name" : "Backpack" , "description" : "Allows you to store non-worn, non-wielded items you find", "inv" : "5"},
+	"backpack2" : "icons/wearables/backpack2.png",
+	"boots" : "icons/wearables/boots.png",
+	
+	"axe" : "icons/wieldables/axe.png",
+	"bat" : "icons/wieldables/bat.png",
+	"crowbar" : "icons/wieldables/crowbar.png",
+	"hatchet" : "icons/wieldables/hatchet.png",
+	"knife" : "icons/wieldables/knife.png",
+	"machete" : "icons/wieldables/machete.png",
+	"pistol" : "icons/wieldables/pistol.png",
+	"rifle" : "icons/wieldables/rifle.png",
+	"rifle2" : "icons/wieldables/rifle2.png",
 	"shotgun" : {"name" : "Shotgun", "description" : "Damage: 10d10", "damage" : ["10","10"] },
-	"shells" : {"name" : "Shotgun Shells", "count" : "1",  "description" : "Ammo for your boomstick", "count" : "0", "stackable" : "1"} ,
-	"backpack1" : {"name" : "Backpack" , "description" : "Allows you to store non-worn, non-wielded items you find", "inv" : "15"}
+	"shotgun2" : "icons/wieldables/shotgun2.png"
 }
