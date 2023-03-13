@@ -1,6 +1,6 @@
 {
-	"count" : "0",
-	"location" : "10000",
+	"count" : {"name" : "Choices Made", "value" : "0"},
+	"location" : {"name" : "Current Location", "value" : "10000"},
 	"inv" : {"name" : "Inventory", "value" : "5"},
 	"day" : {"name" : "Day", "value" : "1"},
 	"hp" : {"name" : "Health", "value" : "100"},
