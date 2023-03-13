@@ -1,0 +1,28 @@
+{
+	"101" : "Head - Inner Layer",
+	"102" : "Header - Outer Layer",
+	"103" : "Ears",	
+	"104" : "Face - Inner Layer",
+	"105" : "Face - Outer Layer",
+	"106" : "Back - Inner Layer",
+	"107" : "Back - Mid Layer",
+	"108" : "Back - Outer Layer",
+	"109" : "Chest - Inner Layer",
+	"110" : "Chest - Mid Layer",
+	"111" : "Chest - Outer Layer",
+	"112" : "Legs - Inner Layer"
+	"113" : "Legs - Mid Layer",
+	"114" : "Legs - Outer Layer",
+	"115" : "Feet",
+	"151" : "Holster",
+	"152" : "Holster",
+	"153" : "Holster",
+	"154" : "Holster",
+	"155" : "Holster",
+	"161" : "Sling",
+	"162" : "Sling",
+	"116" : "Hands",
+	"201" : "Left Hand",
+	"202" : "Right hand",
+	"203" : "Both Hands"
+}
