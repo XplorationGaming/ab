@@ -12,7 +12,7 @@
 	"medkit" : {"name" : "First Aid Kit", "description" : "Helps you treat wounds and fend off ailments"},
 	"talkies" : {"name" : "Radio Communications", "description" : "Helps you monitor communications"},
 	
-	"armorvest" : ["name" : "Protective Vest", "description" : "Helps protect you from physical threats", "slot" : "chest2"},
+	"armorvest" : {"name" : "Protective Vest", "description" : "Helps protect you from physical threats", "slot" : "chest2"},
 	"backpack1" : {"name" : "Backpack" , "description" : "Allows you to store non-worn, non-wielded items you find", "inv" : "5"},
 	"backpack2" : "icons/wearables/backpack2.png",
 	"boots" : "icons/wearables/boots.png",
